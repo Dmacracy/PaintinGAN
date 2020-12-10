@@ -1,0 +1,1 @@
+python3 met_download.py --csv='../../Data/MET/openaccess/MetObjects.csv' --out='../../Data/MET' --artist="Franz von Lenbach" --type="Oil on canvas" --logfile='../../Data/MET/works_downloaded.csv' --num="1"
